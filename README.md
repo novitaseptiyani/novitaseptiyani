@@ -1,7 +1,6 @@
 # Hai, saya Novita Septiyani 👋
 
-Mahasiswa Informatika Universitas Kristen Krida Wacana yang sedang
-mencari posisi **Frontend Developer**.
+Mahasiswa Informatika Universitas Kristen Krida Wacana.
 
 ## Yang saya kuasai
 - HTML, CSS, JavaScript
