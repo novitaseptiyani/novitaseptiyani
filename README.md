@@ -10,7 +10,7 @@ Mahasiswa Informatika Universitas Kristen Krida Wacana.
 
 ## Proyek unggulan
 - [Website Knowdell Digital](link-nanti-diisi)
-- [Website Online Shop Kecantikan](link-nanti-diisi)
+- [Website Online Shop Kecantikan](https://github.com/novitaseptiyani/online-shop-kecantikan)
 - [Website Panduan Destinasi Yogyakarta](https://github.com/novitaseptiyani/panduan-destinasi-yogyakarta)
 
 ## Kontak
