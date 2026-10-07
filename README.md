@@ -5,14 +5,13 @@ mencari posisi **Frontend Developer**.
 
 ## Yang saya kuasai
 - HTML, CSS, JavaScript
-- Bootstrap/Tailwind
+- Tailwind
 - Figma (desain UI)
 - PHP, Laravel, MySQL (dasar backend)
 
 ## Proyek unggulan
 - [Website Knowdell Digital](link-nanti-diisi)
 - [Website Online Shop Kecantikan](link-nanti-diisi)
-- [Website Identifikasi Motif Batik Nusantara](link-nanti-diisi)
 - [Website Panduan Destinasi Yogyakarta](link-nanti-diisi)
 
 ## Kontak
