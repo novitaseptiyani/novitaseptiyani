@@ -12,7 +12,7 @@ mencari posisi **Frontend Developer**.
 ## Proyek unggulan
 - [Website Knowdell Digital](link-nanti-diisi)
 - [Website Online Shop Kecantikan](link-nanti-diisi)
-- [Website Panduan Destinasi Yogyakarta](link-nanti-diisi)
+- [Website Panduan Destinasi Yogyakarta](https://github.com/novitaseptiyani/panduan-destinasi-yogyakarta)
 
 ## Kontak
 - Email: novitanovi1004@gmail.com
