@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hai, saya Novita Septiyani 👋
 
-<!--
-**novitaseptiyani/novitaseptiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa Informatika Universitas Kristen Krida Wacana yang sedang
+mencari posisi **Frontend Developer**.
 
-Here are some ideas to get you started:
+## Yang saya kuasai
+- HTML, CSS, JavaScript
+- Bootstrap/Tailwind
+- Figma (desain UI)
+- PHP, Laravel, MySQL (dasar backend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek unggulan
+- [Website Knowdell Digital](link-nanti-diisi)
+- [Website Online Shop Kecantikan](link-nanti-diisi)
+- [Website Identifikasi Motif Batik Nusantara](link-nanti-diisi)
+- [Website Panduan Destinasi Yogyakarta](link-nanti-diisi)
+
+## Kontak
+- Email: novitanovi1004@gmail.com
